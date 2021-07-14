@@ -107,6 +107,11 @@
       <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
       <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/spatie/yaml-front-matter" />
+      <path value="$PROJECT_DIR$/vendor/zendesk/zendesk_api_client_php" />
+      <path value="$PROJECT_DIR$/vendor/mmucklo/inflect" />
+      <path value="$PROJECT_DIR$/vendor/huddledigital/zendesk-laravel" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
